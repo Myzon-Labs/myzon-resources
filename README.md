@@ -216,7 +216,7 @@ We welcome contributions! Please:
 
 ## 📄 License
 
-All assets in this repository are proprietary to Myzon Labs. See [LICENSE](LICENSE) for details.
+This repository is licensed under CC0 1.0 Universal (Public Domain). All assets are free to use, modify, and distribute without restriction. See [LICENSE](LICENSE) for details.
 
 ## 📞 Contact
 
