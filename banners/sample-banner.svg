@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1920 500" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sample Banner Placeholder -->
+  <defs>
+    <linearGradient id="bannerGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0066cc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#004499;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1920" height="500" fill="url(#bannerGrad)"/>
+  
+  <!-- Sample content -->
+  <circle cx="300" cy="250" r="100" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="1620" cy="250" r="150" fill="rgba(255,255,255,0.05)"/>
+  
+  <!-- Text -->
+  <text x="960" y="250" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">
+    SAMPLE BANNER
+  </text>
+  <text x="960" y="300" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)" text-anchor="middle">
+    1920x500px Placeholder
+  </text>
+</svg>
